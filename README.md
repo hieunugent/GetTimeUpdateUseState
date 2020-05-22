@@ -1,2 +1,0 @@
-# GetTimeUpdateUseState
-Created with CodeSandbox
